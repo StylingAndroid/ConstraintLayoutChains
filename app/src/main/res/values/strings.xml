@@ -2,6 +2,4 @@
   <string name="app_name">ConstraintLayout Chains</string>
   <string name="spread_chain">Spread Chain</string>
   <string name="spread_chain_with_weights">Spread Chain with Weights</string>
-  <string name="packed_chain">Packed Chain</string>
-  <string name="packed_chain_with_bias">Packed Chain with Bias</string>
 </resources>
